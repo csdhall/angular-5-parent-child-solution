@@ -1,6 +1,6 @@
 # Parent/Child Interaction Solution
 
-## Preqruisites
+## Prerequisites
 1. **[Angular CLI Installed](https://github.com/angular/angular-cli#installation)**
 
 ## Setup and Run	
